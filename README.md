@@ -20,6 +20,9 @@ This project implements an end-to-end machine learning workflow:
 The trained XGBoost model is integrated into an application that can be used to make fraud predictions.
 
 ---
+## 🌐 Live Demo
+
+The deployed Streamlit application is available here: https://credit-card-fraud-detective.streamlit.app/
 
 ## 🎯 Objectives
 
